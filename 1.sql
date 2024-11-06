@@ -1,4 +1,5 @@
-
+create table prova3b;
+use db_rh_exam;
 
 SELECT 
 f.nome,
