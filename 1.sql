@@ -49,7 +49,7 @@ f.nome,
 a.id_avaliacao,
 a.dt_avaliacao,
 a.nota,
-a_observacao
+a_obs
 FROM
 funcionarios
 LEFT JOIN avaliacao a on 
